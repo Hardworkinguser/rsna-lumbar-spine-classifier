@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision
+pydicom
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+Pillow
+imbalanced-learn
