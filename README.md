@@ -56,4 +56,9 @@ matplotlib
 seaborn
 tqdm
 Pillow
-imbalanced-learn   optional (for extra balancing experiments)
+imbalanced-learn 
+
+
+If you use this code, please cite:
+
+Mina Hashemi, "RSNA Lumbar Spine Classifier", 2026.
